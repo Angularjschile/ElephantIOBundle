@@ -21,5 +21,5 @@
     "autoload": {
         "psr-0": { "Nc\\Bundle\\ElephantIOBundle": "" }
     },
-    "target-dir": "Nc/Bundle/ElephantIOBundle"
+    "target-dir": "Nc/Bundle/ElephantIOBundle","version":"2.0.0"
 }
